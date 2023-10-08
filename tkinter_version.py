@@ -1,3 +1,5 @@
+# ChatGPT is used for the program layout.
+
 import tkinter as tk
 
 
